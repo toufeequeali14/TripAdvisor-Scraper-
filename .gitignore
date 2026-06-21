@@ -1,0 +1,14 @@
+venv/
+captured/
+debug.py
+link_based_scraper.py
+tripadvisor_data.py
+tripadvisor_interceptor.py
+chrome_profile/
+reviews_scraper.py
+reviews_scraper_v2.py
+reviews_scraper_v3.py
+reviews_scraper_v4.py
+All_Reviews_Dir/
+__pycache__/
+cookies.json
